@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <!-- English URLs -->
+  <url>
+    <loc>https://adsensecalculator.online</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/dashboard</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/dashboard"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/dashboard"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/how-it-works</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/how-it-works"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/optimization-tips</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/optimization-tips"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/optimization-tips"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/faq</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/faq"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/faq"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/contact</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/contact"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/privacy</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/privacy"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/terms</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/terms"/>
+  </url>
+
+  <!-- Spanish URLs -->
+  <url>
+    <loc>https://adsensecalculator.online/es</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/dashboard</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/dashboard"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/dashboard"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/how-it-works</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/how-it-works"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/how-it-works"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/optimization-tips</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/optimization-tips"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/optimization-tips"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/faq</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/faq"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/faq"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/contact</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/contact"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/privacy</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/privacy"/>
+  </url>
+  <url>
+    <loc>https://adsensecalculator.online/es/terms</loc>
+    <lastmod>2025-11-05</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://adsensecalculator.online/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://adsensecalculator.online/es/terms"/>
+  </url>
+</urlset>
