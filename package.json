@@ -54,7 +54,7 @@
     "input-otp": "latest",
     "lucide-react": "^0.454.0",
     "magic-string": "latest",
-    "next": "15.3.5",
+    "next": "15.3.8",
     "next-themes": "latest",
     "path": "latest",
     "process": "0.11.10",
